@@ -1,6 +1,6 @@
 # Data Science Thesis (MSc Information Studies UvA)
 
-In this repository you will find the code used for the my masters thesis about the following topic:
+In this repository you will find the code used for the my master thesis about the following topic:
 
 This study compares the performance of the hillClimber algorithm to that of the hillClimber with a plugged in Frequency Fitness Assignment (FFA) method on the optimization of 240 Job Shop Scheduling Problem (JSSP) instances. The JSSP instances have been specifically generated for this study in order to investigate the performance of the algorithms on problem instances with steadily increasing numbers of jobs and machines. 
 
